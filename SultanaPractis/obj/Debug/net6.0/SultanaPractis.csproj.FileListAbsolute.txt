@@ -1,0 +1,15 @@
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\bin\Debug\net6.0\SultanaPractis.exe
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\bin\Debug\net6.0\SultanaPractis.deps.json
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\bin\Debug\net6.0\SultanaPractis.runtimeconfig.json
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\bin\Debug\net6.0\SultanaPractis.dll
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\bin\Debug\net6.0\SultanaPractis.pdb
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.csproj.AssemblyReference.cache
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.AssemblyInfoInputs.cache
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.AssemblyInfo.cs
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.csproj.CoreCompileInputs.cache
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.dll
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\refint\SultanaPractis.dll
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.pdb
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\SultanaPractis.genruntimeconfig.cache
+C:\Users\Training\Downloads\fs0008 Sultana\SultanaPractis Solution\SultanaPractis\obj\Debug\net6.0\ref\SultanaPractis.dll

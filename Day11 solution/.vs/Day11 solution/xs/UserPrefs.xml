@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{72C190A9-EF36-4C2A-861F-FA1D21433CF2}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Day11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day11/Program.cs">
+    <Files>
+      <File FileName="Day11/Program.cs" Line="13" Column="19" IsPinned="True" />
+      <File FileName="Day11/Human.cs" Line="27" Column="4" />
+      <File FileName="Day11/Employee.cs" Line="21" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day11 solution" expanded="True">
+            <Node name="Day11" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

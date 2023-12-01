@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/bin/Debug/net6.0/Day11
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/bin/Debug/net6.0/Day11.deps.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/bin/Debug/net6.0/Day11.runtimeconfig.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/bin/Debug/net6.0/Day11.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/bin/Debug/net6.0/Day11.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/refint/Day11.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/Day11.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day11 solution/Day11/obj/Debug/net6.0/ref/Day11.dll

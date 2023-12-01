@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{76BCE554-59AC-4F1E-ABB6-660073A95BE8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day12_P2/Program.cs">
+    <Files>
+      <File FileName="Day12_P2/Program.cs" Line="6" Column="43" />
+      <File FileName="Day12_P2/Human.cs" Line="10" Column="9" />
+      <File FileName="Day12_P2/Students.cs" Line="9" Column="17" />
+      <File FileName="Day12_P2/Employee.cs" Line="27" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day12_P2 solution" expanded="True">
+            <Node name="Day12_P2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day12_P2 solution" expanded="True">
+            <Node name="Day12_P2">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Day12__P2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

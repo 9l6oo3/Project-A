@@ -1,0 +1,45 @@
+/Users/sultana/Projects/Day3 solution/Day3/bin/Debug/net6.0/Day3
+/Users/sultana/Projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.deps.json
+/Users/sultana/Projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.runtimeconfig.json
+/Users/sultana/Projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.dll
+/Users/sultana/Projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.pdb
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.AssemblyReference.cache
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfoInputs.cache
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfo.cs
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.CoreCompileInputs.cache
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.dll
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/refint/Day3.dll
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.pdb
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.genruntimeconfig.cache
+/Users/sultana/Projects/Day3 solution/Day3/obj/Debug/net6.0/ref/Day3.dll
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.deps.json
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.runtimeconfig.json
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.dll
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.pdb
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.AssemblyReference.cache
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfoInputs.cache
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfo.cs
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.dll
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/refint/Day3.dll
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.pdb
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.genruntimeconfig.cache
+/Users/sultana/Documents/معسكر مكين/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/ref/Day3.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.deps.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.runtimeconfig.json
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/bin/Debug/net6.0/Day3.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/refint/Day3.dll
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.pdb
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/Day3.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/introduction to programming /assignments/projects/Day3 solution/Day3/obj/Debug/net6.0/ref/Day3.dll

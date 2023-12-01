@@ -1,0 +1,15 @@
+/Users/sultana/Projects/Day7 solution/Day7/bin/Debug/net6.0/Day7
+/Users/sultana/Projects/Day7 solution/Day7/bin/Debug/net6.0/Day7.deps.json
+/Users/sultana/Projects/Day7 solution/Day7/bin/Debug/net6.0/Day7.runtimeconfig.json
+/Users/sultana/Projects/Day7 solution/Day7/bin/Debug/net6.0/Day7.dll
+/Users/sultana/Projects/Day7 solution/Day7/bin/Debug/net6.0/Day7.pdb
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.csproj.AssemblyReference.cache
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.AssemblyInfoInputs.cache
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.AssemblyInfo.cs
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.csproj.CoreCompileInputs.cache
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.dll
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/refint/Day7.dll
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.pdb
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/Day7.genruntimeconfig.cache
+/Users/sultana/Projects/Day7 solution/Day7/obj/Debug/net6.0/ref/Day7.dll

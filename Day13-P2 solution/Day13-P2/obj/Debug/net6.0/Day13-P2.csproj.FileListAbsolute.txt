@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/bin/Debug/net6.0/Day13-P2
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/bin/Debug/net6.0/Day13-P2.deps.json
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/bin/Debug/net6.0/Day13-P2.runtimeconfig.json
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/bin/Debug/net6.0/Day13-P2.dll
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/bin/Debug/net6.0/Day13-P2.pdb
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.dll
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/refint/Day13-P2.dll
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.pdb
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/Day13-P2.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/test /Day13-P2 solution/Day13-P2/obj/Debug/net6.0/ref/Day13-P2.dll

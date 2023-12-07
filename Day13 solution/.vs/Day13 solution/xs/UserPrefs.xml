@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{8911CECC-9F42-4505-9ECF-743358BF0B9D}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Day13 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Day13/Employee.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day13/People.cs">
     <Files>
-      <File FileName="Day13/Program.cs" Line="13" Column="1" />
+      <File FileName="Day13/Program.cs" />
       <File FileName="Day13/Employee.cs" Line="26" Column="31" />
-      <File FileName="Day13/Students.cs" />
-      <File FileName="Day13/Creature.cs" />
+      <File FileName="Day13/Students.cs" Line="1" Column="1" />
+      <File FileName="Day13/Creature.cs" Line="1" Column="1" />
+      <File FileName="Day13/People.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Day13 solution" expanded="True">
             <Node name="Day13" expanded="True">
-              <Node name="Employee.cs" selected="True" />
+              <Node name="People.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Day13 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

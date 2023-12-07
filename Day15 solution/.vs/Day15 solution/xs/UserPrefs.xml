@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{81FF69A8-BA52-4108-B47E-ED3D747A8F46}|Default">
+  <MonoDevelop.Ide.ItemProperties.Day15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day15/Program.cs">
+    <Files>
+      <File FileName="Day15/Program.cs" Line="46" Column="19" />
+      <File FileName="Day15/Employee.cs" Line="9" Column="37" />
+      <File FileName="Day15/Report.cs" Line="55" Column="95" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day15 solution" expanded="True">
+            <Node name="Day15">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

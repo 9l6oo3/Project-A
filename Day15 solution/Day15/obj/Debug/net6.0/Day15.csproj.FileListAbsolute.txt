@@ -1,0 +1,15 @@
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/bin/Debug/net6.0/Day15
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/bin/Debug/net6.0/Day15.deps.json
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/bin/Debug/net6.0/Day15.runtimeconfig.json
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/bin/Debug/net6.0/Day15.dll
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/bin/Debug/net6.0/Day15.pdb
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.csproj.AssemblyReference.cache
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.AssemblyInfoInputs.cache
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.AssemblyInfo.cs
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.csproj.CoreCompileInputs.cache
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.dll
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/refint/Day15.dll
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.pdb
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/Day15.genruntimeconfig.cache
+/Users/sultana/Documents/Makeen/test /Charp-learning-journy/Day15 solution/Day15/obj/Debug/net6.0/ref/Day15.dll

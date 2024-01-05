@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B557BC62-2887-48EC-BF8B-FAFCCEC243E6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day18/IntegerMiror.cs">
+    <Files>
+      <File FileName="Day18/Program.cs" Line="23" Column="90" />
+      <File FileName="Day18/IntegerMiror.cs" Line="14" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day18 solution" expanded="True">
+            <Node name="Day18" expanded="True">
+              <Node name="IntegerMiror.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
